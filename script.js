@@ -33,14 +33,14 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Computer Science and Engineering student" ,], 
+        strings: ["Computer Science and Engineering student"], 
         typeSpeed: 120,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Computer Science and Engineering student" ,], 
+        strings: ["Computer Science and Engineering student"], 
         typeSpeed: 120,
         backSpeed: 60,
         loop: true
